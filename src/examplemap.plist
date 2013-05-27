@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- keys are decimal -->
+	<key>44</key>		<!-- translate key code 0x2c into -->
+	<integer>32</integer>	<!-- key code 0x20 (KS_space)  -->
+	<key>41</key>	
+	<integer>27</integer>	<!-- (KS_ESC) -->
+	<key>42</key>	
+	<integer>8</integer>	<!-- (KS_BackSpace) -->
+</dict>
+</plist>
